@@ -5,3 +5,6 @@ Else you can import csv files one by one (total of 12 .csv files) into your data
 .
 .
 Schema diagram (png file) for table Reference is added.
+.
+.
+For Questions, A folder is given where 3 PDFs you'll find sorted by difficulty.
